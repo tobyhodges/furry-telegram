@@ -1,33 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/01-introduction.html</loc>
+    <loc>https://tobyhodges.github.io/furry-telegram/01-introduction.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/CODE_OF_CONDUCT.html</loc>
+    <loc>https://tobyhodges.github.io/furry-telegram/02-introduction-dataviz.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/LICENSE.html</loc>
+    <loc>https://tobyhodges.github.io/furry-telegram/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/index.html</loc>
+    <loc>https://tobyhodges.github.io/furry-telegram/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/01-introduction.html</loc>
+    <loc>https://tobyhodges.github.io/furry-telegram/aio.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/CODE_OF_CONDUCT.html</loc>
+    <loc>https://tobyhodges.github.io/furry-telegram/images.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/LICENSE.html</loc>
+    <loc>https://tobyhodges.github.io/furry-telegram/index.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/index.html</loc>
+    <loc>https://tobyhodges.github.io/furry-telegram/instructor/01-introduction.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/profiles.html</loc>
+    <loc>https://tobyhodges.github.io/furry-telegram/instructor/02-introduction-dataviz.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/profiles.html</loc>
+    <loc>https://tobyhodges.github.io/furry-telegram/instructor/CODE_OF_CONDUCT.html</loc>
+  </url>
+  <url>
+    <loc>https://tobyhodges.github.io/furry-telegram/instructor/LICENSE.html</loc>
+  </url>
+  <url>
+    <loc>https://tobyhodges.github.io/furry-telegram/instructor/aio.html</loc>
+  </url>
+  <url>
+    <loc>https://tobyhodges.github.io/furry-telegram/instructor/images.html</loc>
+  </url>
+  <url>
+    <loc>https://tobyhodges.github.io/furry-telegram/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://tobyhodges.github.io/furry-telegram/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://tobyhodges.github.io/furry-telegram/instructor/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://tobyhodges.github.io/furry-telegram/instructor/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://tobyhodges.github.io/furry-telegram/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://tobyhodges.github.io/furry-telegram/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://tobyhodges.github.io/furry-telegram/profiles.html</loc>
   </url>
 </urlset>
